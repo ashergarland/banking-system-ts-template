@@ -88,6 +88,14 @@ All tests are written in TypeScript and located in the `test/` directory.
 
 ---
 
+## 📘 Reference Implementation
+
+Looking for a complete solution?
+View the fully implemented reference here:
+🔗 [ashergarland/banking-system-ts](https://github.com/ashergarland/banking-system-ts)
+
+---
+
 ## 📧 License
 
 This project is provided for educational and interview use only.
