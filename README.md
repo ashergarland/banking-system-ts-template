@@ -91,7 +91,3 @@ All tests are written in TypeScript and located in the `test/` directory.
 ## 📧 License
 
 This project is provided for educational and interview use only.
-
-```
-
----
