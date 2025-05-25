@@ -1,4 +1,4 @@
-# Banking System – TypeScript Challenege Template
+# Banking System – TypeScript Challenge Template
 
 This project simulates a multi-stage banking system design and implementation exercise, ideal for self-learning, challenges, or technical interviews. It is structured in four progressive stages, each adding complexity and testing your ability to extend functionality in a maintainable way.
 
